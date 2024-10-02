@@ -20,3 +20,5 @@ Order Section:
 Categories:
 - Explore different food categories according to your choices
 
+![preview img](/preview1.png)
+![preview img](/preview2.png)
